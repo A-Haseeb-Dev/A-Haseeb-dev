@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Muhammad+Haseeb;Full-Stack+Developer;Flutter+%26+MERN+Stack+Expert;Next.js+%26+React+Specialist;Web+%26+Mobile+App+Developer;Backend+%26+API+Developer;UI%2FUX+Designer;AI+%26+Agentic+AI+Enthusiast;E-commerce+%26+Business+Solutions;Cross-Platform+App+Builder;Cloud+%26+DevOps+Engineer;Open-Source+Contributor;Blockchain+%26+Web3+Innovator" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D22AQEg6ovHezxu2Q/feedshare-shrink_800/B4DZiL6tJsG8Ao-/0/1754694080088?e=1757548800&v=beta&t=xkfdBrsoy5wUF6HXh5IG7wMC4Uhxp6q6mFZIJbLaxNU" alt="banner" width="320"/>
-</p>
+</p> -->
 
 ---
 
