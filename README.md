@@ -44,7 +44,7 @@ I'm a Full-Stack Developer (MERN & Flutter) and **AI / Agentic AI** enthusiast. 
 
 ## 📈 Live GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Haseeb-Dev&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github.com/api?username=A-Haseeb-Dev&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Haseeb-Dev&layout=compact&theme=radical" height="170"/>
 </p>
 
