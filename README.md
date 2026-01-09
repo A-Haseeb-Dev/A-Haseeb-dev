@@ -64,15 +64,40 @@ I am a highly technical **Software Engineer** with a deep foundation in both hig
 
 ---
 
-### 🤝 Strategic Collaboration
+## 💼 Professional Opportunities
+
+I am currently open to **Full-Stack development**, **AI/Agentic automation**, and **Freelance projects**. If you are looking for a developer who can bridge the gap between complex AI logic and high-performance user interfaces, let's talk.
+
 <div align="center">
   <a href="mailto:muhammadhaseebkhalid029@gmail.com">
-    <img src="https://img.shields.io/badge/Start_a_Project-00F7FF?style=for-the-badge&logo=telegram&logoColor=black" alt="Hire Me" />
+    <img src="https://img.shields.io/badge/📩_Get_In_Touch-00F7FF?style=for-the-badge&logo=minutemailer&logoColor=black" height="40" alt="Hire Me" />
   </a>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=A-Haseeb-Dev&style=flat-square&color=00F7FF" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/muhammad-haseeb-khalid/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+  </a>
 </div>
 
-<p align="center">
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🚀 <b>Custom AI Agents</b></td>
+      <td align="center">📱 <b>Mobile Apps (Flutter)</b></td>
+      <td align="center">🕸️ <b>Web Scraping / Automation</b></td>
+    </tr>
+    <tr>
+      <td align="center">🏗️ <b>Next.js Architecture</b></td>
+      <td align="center">🔧 <b>Backend & APIs</b></td>
+      <td align="center">🧠 <b>Computer Vision Solutions</b></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=A-Haseeb-Dev&style=flat-square&label=PROFILE+VIEWS&color=00F7FF" alt="Views" />
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=60&section=footer" width="100%" />
-</p>
+</div>
