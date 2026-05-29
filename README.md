@@ -77,8 +77,21 @@ I am a **Software Engineer** with a strong foundation in both high-level applica
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Haseeb-Dev&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Haseeb-Dev&layout=compact&theme=react&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=A-Haseeb-Dev&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Haseeb-Dev&layout=compact&theme=react&hide_border=true&langs_count=8"
+    height="165"
+    alt="Top Languages"
+  />
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=A-Haseeb-Dev&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Haseeb-Dev&layout=compact&theme=react&hide_border=true&langs_count=8" height="165" alt="Top Languages" /> -->
 </div>
 
 <div align="center">
